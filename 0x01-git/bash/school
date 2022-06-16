@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-The school is open
-=======
-The school is openn
->>>>>>> update_script
+#!/bin/bash
+School
